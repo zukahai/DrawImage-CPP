@@ -34,23 +34,29 @@ void loading() {
 
 void question() {
     fstream f;
-    string question, correct, answer;
+    string question[100], correct[100], answer;
 
     f.open("question.txt", std::ios::in);
-    if (f.is_open()) {
-        getline(f, question);
-        getline(f, correct);
-        f.close();
+    int N = 0;
+    while (!f.eof()) {
+        getline(f, question[N]);
+        getline(f, correct[N++]);
     }
-
-    do {
-        cout << question << " ";
-        getline(cin, answer);
-        if (answer != correct) {
-            cout << "Cau tra loi khong dung! Vui long thu lai...\n";
-        }
-    } while (answer != correct);
-    cout << "Ban da tra loi chinh xac!!!";
+    f.close();
+    
+    cout << "Correctly answer " << N << " questions to continue." << endl << endl;
+	for (int i = 0; i < N; i++) {
+		cout << "Question " << (i + 1) << ": " << endl;
+		do {
+	        cout << question[i] << endl;
+	        cout << "Your answer: ";
+	        getline(cin, answer);
+	        if (answer != correct[i]) {
+	            cout << "The answer is not right to try again." << endl;
+	        }
+	    } while (answer != correct[i]);
+	    cout << endl;
+	}
 }
 
 void drawImage() {
