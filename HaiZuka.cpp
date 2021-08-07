@@ -22,7 +22,7 @@ void loading() {
 
     for (int i = 0; i < 26; i++) {
         cout << b;
-        Sleep(500);
+        Sleep(350);
     }
     cout << "\nStart..........!!!";
     Sleep(1000);
@@ -71,8 +71,8 @@ void drawImage() {
         }
         f.close();
     }
-    char a;
-    cin >> a;
+    string a;
+    getline(cin, a);
 }
 
 int main() {
