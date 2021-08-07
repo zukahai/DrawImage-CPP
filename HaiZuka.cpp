@@ -22,10 +22,10 @@ void loading() {
 
     for (int i = 0; i < 26; i++) {
         cout << b;
-        Sleep(100);
+        Sleep(500);
     }
     cout << "\nStart..........!!!";
-    Sleep(500);
+    Sleep(1000);
 
     system("cls");
     cout << std::endl;
@@ -67,7 +67,7 @@ void drawImage() {
         std::string tp;
         while (getline(f, tp)) {
             cout << tp << std::endl;
-            Sleep(20);
+            Sleep(100);
         }
         f.close();
     }
