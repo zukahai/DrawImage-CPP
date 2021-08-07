@@ -1,5 +1,8 @@
 ## <p align="center"> Draw Image </p>
 
+
+Lưu ý: Nên chạy code trên máy tính.
+
 ### Bước 1: Tải code
 <p align="center"> <img src="images/1.png" alt="blog" /> </p>
 Tại giao diện này hãy bấm vào code -> download zip.
@@ -28,6 +31,7 @@ Ví dụ file question.txt
 Bạn cần có một file ký tự tương tụ như thế này.
 <p align="center"> <img src="images/4.png" alt="blog" /> </p>
 Đừng thấy khó mà bỏ qua nhé, sẽ có website giúp bạn làm việc này, các bạn truy cập và trang web:
+
 https://www.text-image.com/convert/ascii.html
 <p align="center"> <img src="images/5.png" alt="blog" /> </p>
 Các bạn bấm vào chọn tệp để chọn hình ảnh mà bạn muốn chuyển đổi.
