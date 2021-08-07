@@ -23,3 +23,16 @@ Các bạn chỉnh sửa file question.txt để sửa phần này.
 ```
 Ví dụ file question.txt
 <p align="center"> <img src="images/3.png" alt="blog" /> </p>
+
+### Bước 3: Tạo file ký tự cho bước ảnh của bạn.
+Bạn cần có một file ký tự tương tụ như thế này.
+<p align="center"> <img src="images/4.png" alt="blog" /> </p>
+Đừng thấy khó mà bỏ qua nhé, sẽ có website giúp bạn làm việc này, các bạn truy cập và trang web:
+https://www.text-image.com/convert/ascii.html
+<p align="center"> <img src="images/5.png" alt="blog" /> </p>
+Các bạn bấm vào chọn tệp để chọn hình ảnh mà bạn muốn chuyển đổi.
+Phần image width các bạn để cho mình là 200 nhé.
+Bấm vào phần convert để chuyển đổi, các bạn sẽ được kết quả tương tự như thế này.
+<p align="center"> <img src="images/6.png" alt="blog" /> </p>
+Các bạn copy hết lại và cho vào file input.txt nhé, nhớ lưu lại đó nha.
+
