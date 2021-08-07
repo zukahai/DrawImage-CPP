@@ -44,7 +44,8 @@ void question() {
     }
     f.close();
     
-    cout << "Correctly answer " << N << " questions to continue." << endl << endl;
+    cout << "Correctly answer " << N << " questions to continue." << endl;
+    cout << "Contact https://github.com/zukahai/DrawImage-CPP if difficult" << endl << endl;
 	for (int i = 0; i < N; i++) {
 		cout << "Question " << (i + 1) << ": " << endl;
 		do {
@@ -70,12 +71,12 @@ void drawImage() {
         }
         f.close();
     }
+    char a;
+    cin >> a;
 }
 
 int main() {
     question();
     loading();
 	drawImage();
-
-    return 0;
 }
