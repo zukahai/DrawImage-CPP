@@ -44,7 +44,8 @@ Các bạn copy hết lại và cho vào file input.txt nhé, nhớ lưu lại �
 Các bạn chơi file HaiZuka.exe để chạy chương trình nhé.
 Bắt đầu chương trình người dùng phải trả lời chính các câu hỏi mà bạn đã đặt ra:
 <p align="center"> <img src="images/7.png" alt="blog" /> </p>
-Trong lúc chương trình đang loading, các bạn nhanh chóng thu nhỏ màn hình lại bằng cách đồng thời giữ phím ctrl và lăn chuổi nhé, khi đã thu nhỏ được màn hình (cái này do các bạn tự biết nhỏ thế nào là hợp lý nhé) cuối cùng các bạn ấn full màn hình và tận hượng thành quả nhé.
 <p align="center"> <img src="images/8.png" alt="blog" /> </p>
+Trong lúc chương trình đang loading, các bạn nhanh chóng thu nhỏ màn hình lại bằng cách đồng thời giữ phím ctrl và lăn chuổi nhé, khi đã thu nhỏ được màn hình (cái này do các bạn tự biết nhỏ thế nào là hợp lý nhé) cuối cùng các bạn ấn full màn hình và tận hượng thành quả nhé.
+<p align="center"> <img src="images/9.png" alt="blog" /> </p>
 
 ## <p align="center"> Chúc các bạn thành công </p>
