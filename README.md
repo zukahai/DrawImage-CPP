@@ -11,10 +11,10 @@ Xong các bạn giải nén ra nhé. Sau khi giải nén các bạn sẽ có cá
 <p align="center"> <img src="images/2.png" alt="blog" /> </p>
 
 ## Bước 2: Tạo các câu hỏi
-Để tăng phần thú vị cho chương trình thì khi chạy chương trình người dùng sẽ phải trả lời một số câu hỏi của bạn thì chương trình mới hoạt đông.
+Để tăng phần thú vị cho chương trình thì khi chạy chương trình người dùng sẽ phải trả lời một số câu hỏi của bạn thì chương trình mới hoạt động.
 Các bạn chỉnh sửa file question.txt để sửa phần này.
-Ở trong file này các bạn sẽ lần lượt điền các câu hỏi và câu trả lời (câu hỏi trên 1 dòng, câu trả lời trên một dòng).
-Định dang file question.txt sẽ như sau
+Ở trong file này các bạn sẽ lần lượt điền các câu hỏi và câu trả lời của câu hỏi đó (câu hỏi trên 1 dòng, câu trả lời trên một dòng).
+Định dang file question.txt sẽ như sau:
 
 ```
   Câu hỏi 1
@@ -51,7 +51,7 @@ Bắt đầu chương trình người dùng phải trả lời chính các câu 
 <p align="center"> <img src="images/7.png" alt="blog" /> </p>
 
 <p align="center"> <img src="images/8.png" alt="blog" /> </p>
-Trong lúc chương trình đang loading, các bạn nhanh chóng thu nhỏ màn hình lại bằng cách đồng thời giữ phím ctrl và lăn chuổi nhé, khi đã thu nhỏ được màn hình (cái này do các bạn tự biết nhỏ thế nào là hợp lý nhé) cuối cùng các bạn ấn full màn hình và tận hượng thành quả nhé.
+Trong lúc chương trình đang loading, các bạn nhanh chóng thu nhỏ màn hình lại bằng cách đồng thời giữ phím ctrl và lăn chuội nhé, khi đã thu nhỏ được màn hình (cái này do các bạn tự biết nhỏ thế nào là hợp lý nhé) cuối cùng các bạn ấn full màn hình và tận hượng thành quả nhé.
 
 <p align="center"> <img src="images/9.png" alt="blog" /> </p>
 
