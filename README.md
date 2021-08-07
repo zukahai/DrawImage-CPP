@@ -56,3 +56,6 @@ Trong lúc chương trình đang loading, các bạn nhanh chóng thu nhỏ màn
 <p align="center"> <img src="images/9.png" alt="blog" /> </p>
 
 ## <p align="center"> Chúc các bạn thành công </p>
+
+### Xem Video hướng dẫn sử dụng.
+<p align="center"> <img src="images/10.png" alt="blog" /> </p>
